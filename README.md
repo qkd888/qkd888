@@ -1,19 +1,9 @@
-### Hi there 👋
+Hello there!👋
 
-Quintin Kelly Dekker
+My name is Quintin Kelly Dekker, and I am a full-stack web developer and electronic music producer. With skills in API development, ReactJS, ExpressJS, MongoDB, NodeJS, and electronic music production, I am passionate about creating user-friendly and efficient web applications.
 
+As a self-taught developer, I take pride in my ability to deliver high-quality projects that meet my clients' needs. I am dedicated to understanding their vision and effectively communicating with them to ensure that their ideas are brought to life.
 
-Full Stack Web Developer & Freelancer | Electronic Music Producer
+In my free time, I enjoy producing electronic music, showcasing my creativity and passion for music. If you're interested, you can take a look at my portfolio and music projects to see some of my recent works.
 
-Skills
-API Development
-ReactJS
-ExpressJS
-MongoDB
-NodeJS
-Electronic Music Production
-I am a self-taught web developer with a passion for creating user-friendly and efficient web applications. In my spare time, I also produce electronic music, showcasing my creativity and passion for music.
-
-As a freelancer, I am dedicated to delivering high-quality projects that meet my clients' needs. I take pride in my ability to understand and effectively communicate with clients to ensure their vision is brought to life.
-
-Feel free to take a look at my portfolio and music projects to see some of my recent works. I am always open to new opportunities, so don't hesitate to reach out if you need a full stack web developer or an electronic music producer for your next project.
+If you need a full-stack web developer or an electronic music producer for your next project, feel free to reach out to me. I'm always open to new opportunities!
